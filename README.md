@@ -4,7 +4,7 @@ An interactive, nature-inspired web prototype built for a luxury off-grid cabin 
 
 ## 🌲 Project Overview
 
-Hearth & Pine is designed to bridge the gap between rugged outdoor living and modern luxury. The prototype showcases the core user journey—from discovering unique dwellings to purchasing gift vouchers and inquiring about landowner partnerships.
+Hearth & Pine is designed to bridge the gap between rugged outdoor living and modern luxury. The prototype showcases the core user journey, from discovering unique dwellings to purchasing gift vouchers and inquiring about landowner partnerships.
 
 ### Key Pages & Features
 
