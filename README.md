@@ -41,7 +41,7 @@ To run this project on your local machine, follow these steps:
 
 - Run the development server: npm run dev
 
-- View the app: Open http://localhost:5173 in your browser.
+- View the app: https://hearthpinecabin.netlify.app/
 
 ### 📄 License
 This project is open-source and available under the MIT License.
