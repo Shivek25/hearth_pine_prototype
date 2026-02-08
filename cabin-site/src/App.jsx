@@ -565,7 +565,7 @@ export default function App() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-4 pt-8 text-xs text-center md:text-left flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2024 Hearth & Pine Hospitality Group. All rights reserved.</p>
+          <p>&copy; 2026 Hearth & Pine Hospitality Group. All rights reserved.</p>
           <p className="mt-2 md:mt-0">Designed for the wild.</p>
         </div>
       </footer>
